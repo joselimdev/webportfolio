@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*/Member 2/*/
+h1, h2, h3, h4 {
+    font-family: Merriweather;
+}
+
+nav{
+    padding: 5px;
+    text-align: center;
+    background-color: darkolivegreen;
+}
+
+/*/Member 3/*/
+}
+#navMenu {
+    list-style-type: none;
+}
+.nav-link {
+    display: inline-block;
+    margin: 0.5rem;
+    padding: 3px;
+}
+#landing {
+    background-image: url(https://img.freepik.com/free-photo/galactic-night-sky-astronomy-science-combined-generative-ai_188544-9656.jpg?w=1380&t=st=1708346937~exp=1708347537~hmac=c5bd1633e9f13fd797fad9a5d4b10eff8926df931f0d52768ae2af477f4a6750);
+    color: white;
+    background-repeat: no repeat;
+    min-height: 50%;
+    background-position: center;
+    text-align: center;
+    background-size: 50rem;
+}
+
+/*//Member 4//*/
+#landing > h1 {
+    padding: 1rem;
+    font-size: 3rem;
+}
+
+#landing > h3 {
+    margin: 1rem;
+}
+
+#landing > button {
+    padding: 0.8rem;
+    background-color: lightgreen;
+    border: 4px solid darkgreen;
+    border-radius: 10px;
+}
+
+
+
+/*//Member 5//*/
+#hot{
+    text-align: center;
+}
+
+#hot h2{
+    margin-top: 2rem;
+    margin-bottom: 0rem;
+
+}
+
+#hot ul li{
+    display: inline-block;
+    list-style: none;
+    border: 2px solid lightblue;
+    border-radius: 10px;
+    padding: 3rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}

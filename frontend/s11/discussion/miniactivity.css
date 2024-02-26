@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    font-size: 1em;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/04/Download-desktop-ocean-backgrounds-wallpapers.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+header {
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+
+}
+
+nav {
+    text-align: center;
+    
+    padding: 10px;
+
+}
+
+li {
+    list-style-type: none;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+section {
+    padding: 20px;
+    margin: 10px 0;
+
+}
+
+footer {
+    text-align: center;
+    padding: 1em 0;
+    color: white;
+
+}
