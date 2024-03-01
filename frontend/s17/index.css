@@ -39,3 +39,7 @@ h1:hover {
 .form-control:hover {
 	background-color: lightblue;
 }
+
+.glow-text {
+      text-shadow: 0 0 10px rgba(255, 255, 255, 0.8), 0 0 20px rgba(255, 255, 255, 0.8), 0 0 30px rgba(255, 255, 255, 0.8);
+    }
